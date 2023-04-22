@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>7 i mig</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="estils.css">
+
+</head>
+<body>
+    <audio id="miAudio" src="musicaFons.mp3" ></audio>
+    <div id="taula">
+        <div class="item1">
+            <p>DEALER</p>
+            <div class="cards-containers" id="card-container-dealer"></div>
+        </div>
+        <div class="item2">
+            <p>PLAYER</p>
+            <div class="cards-containers item2" id="card-container-player"></div>
+        </div>
+        <div class="item3">
+            <button class="botó" id="començar">Començar</button>
+            <button class="botó" id="demanarCarta">Demanar</button>
+            <button class="botó" id="plantar-se">Plantar-se</button>
+        </div>
+
+        <p id="final"></p>
+        <script type="module" src="scripts/vista.js"> </script>
+    </div>
+</body>
+</html>

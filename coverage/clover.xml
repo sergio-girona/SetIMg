@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1682157745192" clover="3.2.0">
+  <project timestamp="1682157745192" name="All files">
+    <metrics statements="34" coveredstatements="33" conditionals="4" coveredconditionals="4" methods="10" coveredmethods="10" elements="48" coveredelements="47" complexity="0" loc="34" ncloc="34" packages="1" files="4" classes="4"/>
+    <file name="card.js" path="C:\Users\sebas\Downloads\7iMig\scripts\card.js">
+      <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="14" count="40" type="stmt"/>
+      <line num="15" count="40" type="stmt"/>
+      <line num="16" count="40" type="cond" truecount="2" falsecount="0"/>
+    </file>
+    <file name="deck.js" path="C:\Users\sebas\Downloads\7iMig\scripts\deck.js">
+      <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="19" count="4" type="stmt"/>
+      <line num="20" count="40" type="stmt"/>
+      <line num="29" count="1" type="stmt"/>
+      <line num="30" count="39" type="stmt"/>
+      <line num="31" count="39" type="stmt"/>
+    </file>
+    <file name="game.js" path="C:\Users\sebas\Downloads\7iMig\scripts\game.js">
+      <metrics statements="14" coveredstatements="13" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
+      <line num="11" count="4" type="stmt"/>
+      <line num="12" count="4" type="stmt"/>
+      <line num="13" count="4" type="stmt"/>
+      <line num="20" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="21" count="1" type="stmt"/>
+      <line num="23" count="1" type="stmt"/>
+      <line num="32" count="1" type="stmt"/>
+      <line num="33" count="1" type="stmt"/>
+      <line num="35" count="1" type="stmt"/>
+      <line num="36" count="0" type="stmt"/>
+      <line num="39" count="1" type="stmt"/>
+      <line num="40" count="1" type="stmt"/>
+      <line num="47" count="1" type="stmt"/>
+      <line num="48" count="1" type="stmt"/>
+    </file>
+    <file name="jugador.js" path="C:\Users\sebas\Downloads\7iMig\scripts\jugador.js">
+      <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="16" count="8" type="stmt"/>
+      <line num="17" count="8" type="stmt"/>
+      <line num="18" count="8" type="stmt"/>
+      <line num="19" count="8" type="stmt"/>
+      <line num="27" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
